@@ -40,7 +40,8 @@ li {
 
 #conteudo {
 	background: #e8e8d9;
-	padding: 20px;
+	padding: 0px 20%;
+	
 }
 
 #rodape {
@@ -67,3 +68,6 @@ h1 {
 	font-size: 1.2em;
 }
 
+p{
+	text-align: justify;
+}
