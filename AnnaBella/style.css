@@ -66,8 +66,15 @@ a {
 h1 {
 	color: #828271;
 	font-size: 1.2em;
+	text-align: center;
+	font-size: 40px;
 }
 
 p{
 	text-align: justify;
+}
+
+#contato {
+	text-align: center;
+	padding: 0px 20%;
 }
