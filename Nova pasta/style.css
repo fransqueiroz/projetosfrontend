@@ -72,7 +72,7 @@ li{
     }
 
     .nav-links li{
-        opacity: 0;
+        opacity: 1;
         transition: all 1s ease-out;
     }
 
